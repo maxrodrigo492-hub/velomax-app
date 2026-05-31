@@ -1,4 +1,4 @@
-# VELOMAX - Sistema de Análise de Performance Veicular
+# VELOMAX - Sistema de Análise de Performance Empresarial
 
 Sistema inteligente para análise e otimização de performance veicular.
 
